@@ -12,7 +12,7 @@ public class Drum implements Instrument{
         this.size = size;
     }
      public void play(){
-        System.out.println("Грає барабан з розміром " + size );
+        System.out.println("Грає барабан з розміром " + size ) ;
 
      }
 
