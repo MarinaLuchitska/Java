@@ -6,11 +6,11 @@ import lombok.NoArgsConstructor;
 
 @Data
 @NoArgsConstructor
-public class Adress {
+public class Address {
     private String street;
     private String city;
 
-    public Adress(String street, String city) {
+    public Address(String street, String city) {
         this.street = street;
         this.city = city;
     }
