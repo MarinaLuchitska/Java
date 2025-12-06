@@ -1,4 +1,4 @@
-package Lesson4.task4;
+package lesson4.task4;
 
 public interface ZooClubActions {
         void addPerson(Person person);

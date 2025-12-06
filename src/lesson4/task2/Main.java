@@ -1,4 +1,4 @@
-package Lesson4.task2;
+package lesson4.task2;
 
 //створити ArrayList зі словами на 15-20 елементів.
 //– відсортувати його за алфавітом.

@@ -1,4 +1,4 @@
-package Lesson4.task6;
+package lesson4.task6;
 
 
 public class Num {

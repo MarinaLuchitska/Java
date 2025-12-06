@@ -1,4 +1,4 @@
-package Lesson4.task6;
+package lesson4.task6;
 //– Створити масив з 20 числами.
 //– за допомогою способу sorted відсортувати масив.
 // — за допомогою filter отримати числа, кратні 3
@@ -8,10 +8,6 @@ package Lesson4.task6;
 
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.List;
-import java.util.Set;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Main {

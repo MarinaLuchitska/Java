@@ -1,4 +1,4 @@
-package Lesson4.task3;
+package lesson4.task3;
 
 //Створити клас, котрий відповідає наступній моделі
 //{

@@ -1,4 +1,4 @@
-package Lesson4.task4;
+package lesson4.task4;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

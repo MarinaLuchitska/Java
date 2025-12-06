@@ -1,4 +1,4 @@
-package Lesson4.task3;
+package lesson4.task3;
 
 import lesson2.task3.Car;
 import lesson2.task3.Gender;

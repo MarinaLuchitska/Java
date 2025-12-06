@@ -1,8 +1,7 @@
-package Lesson4.task7;
+package lesson4.task7;
 //Створити клас автомобіля з полями:
 //Марка автомобіля, потужність двигуна, власник, ціна, рік випуску.
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

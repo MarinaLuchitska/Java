@@ -1,9 +1,8 @@
-package Lesson4.task1;
+package lesson4.task1;
 //Створити List Юзерів
 //– відсортувати  за  віком (зростання, а потім окремо спадання –  за допомогою методу sort)
 //– відсортувати його за кількістю знаків в імені  (зростання, а потім окремо спадання)
 
-import java.util.Comparator;
 import java.util.List;
 import java.util.ArrayList;
 
