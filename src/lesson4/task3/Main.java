@@ -162,9 +162,7 @@ public class Main {
         System.out.println("ДО ВИДАЛЕННЯ");
         usersSet.forEach(System.out::println);
 
-
         usersSet.removeIf(user -> user.getGender() == Gender.MALE);
-
 
         System.out.println("ПІСЛЯ ВИДАЛЕННЯ");
         usersSet.forEach(System.out::println);
